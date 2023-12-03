@@ -1,0 +1,16 @@
+{
+  "name": "lit-html-todo",
+  "type": "module",
+  "version": "0.0.1",
+  "author": "Kriyaetive Verse Private Limited",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lit-html": "^3.1.0"
+    
+  },
+  "devDependencies": {
+    "vite": "^5.0.4"
+  }
+}
